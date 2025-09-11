@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">🎓 Undergraduate student at the Indian Institute of Technology<br>💡 Experienced in AI, systems, and real-time applications<br>🎯 Goals: ...<br>⚡ Interested in contributing beyond academics in tech communities and impactful projects</p>
+<p align="left">🎓 Undergraduate student at the Indian Institute of Technology<br>💡 Experienced in AI, systems, and real-time applications<br>⚡ Interested in contributing beyond academics in tech communities and impactful projects</p>
 
 ###
 
