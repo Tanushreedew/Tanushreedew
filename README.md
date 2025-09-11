@@ -3,6 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanushreedew&label=Profile%20views&color=0e75b6&style=flat" alt="tanushreedew" /> </p>
 
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🎓 Undergraduate student at the Indian Institute of Technology<br>💡 Experienced in AI, systems, and real-time applications<br>🎯 Goals: ...<br>⚡ Interested in contributing beyond academics in tech communities and impactful projects</p>
+
+###
+
+
 - 📫 How to reach me **tanushreedewangan26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
